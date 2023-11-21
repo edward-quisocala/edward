@@ -44,3 +44,15 @@ $a=10;
 $b=20;
 $resultado = $a + $b;
 ````
+## Ejemplo2 en PHP
+
+Operación condicional
+````
+$a=3;
+$b=4;
+if ($a > $b){
+    echo "a es mayor"
+}else{
+    echo "b es mayor"
+}
+````
