@@ -56,3 +56,11 @@ if ($a > $b){
     echo "b es mayor"
 }
 ````
+## Ejemplo3 en PHP
+
+Estructura FOR
+````
+for($i=1; $i<=5; $i++){
+    echo "Bienvenido Edward"
+}
+````
