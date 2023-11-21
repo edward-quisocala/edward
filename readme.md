@@ -28,4 +28,19 @@ Para ver el estado de las carpetas a subir.
 ````
 git add .
 ````
-Para agregar todos archivos nuevos a git
+Para agregar todos archivos nuevos a git.
+
+````
+git commit -m "texto de descripcion"
+````
+Crear un punto de nuevo de la rama de git con su descripción
+
+# Ejemplos
+## Ejemplo1 en PHP
+
+operación matemática de una suma
+````
+$a=10;
+$b=20;
+$resultado = $a + $b;
+````
